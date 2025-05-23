@@ -10,8 +10,6 @@ Here’s a well-structured **GitHub README-style description** of your **PDF Que
 
 > Upload any PDF document and ask questions about its content — including **text, images, and tables** — powered by LangChain, OpenAI, and Gradio.
 
-![App Screenshot](attachment:/mnt/data/ff1b980a-3adf-4c09-96e6-68ce6eb10c07.png)
-
 ---
 
 ## 🚀 Core Features
